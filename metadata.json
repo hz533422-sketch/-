@@ -1,0 +1,7 @@
+{
+  "name": "SlabScan AI",
+  "description": "Intelligent construction quality control system for analyzing concrete slab flatness using LiDAR simulation and BIM comparison.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
